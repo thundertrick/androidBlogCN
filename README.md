@@ -31,6 +31,7 @@
 [程序亦非猿](http://yifeiyuan.me/) |
 [脉脉不得语](http://www.inferjay.com/) |
 [陈启超的博客](http://chenqichao.me/) |
+[Magican](http://thundertrick.github.io) |
 
 
 
